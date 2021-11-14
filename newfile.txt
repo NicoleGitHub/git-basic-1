@@ -1,3 +1,9 @@
-The quick brown fox jumps over the lazy dog.
+What is the difference between add, commit, and push?
+
+add : modifies files in your local project
+
+commit : files added to create new version of log in your local branch
+
+push : pushes changed files from local branch to remote branch
 
 
